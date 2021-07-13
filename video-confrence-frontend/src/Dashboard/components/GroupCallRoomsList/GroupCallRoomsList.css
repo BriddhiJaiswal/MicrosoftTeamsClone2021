@@ -1,0 +1,40 @@
+.roomId {
+    background-color: #ffffff;
+    margin-top: 15px;
+}
+  
+.group_calls_list_item:hover {
+    opacity: 0.5;
+}
+
+.group_calls_list_container {
+    width: 100%;
+    height: 100%;
+}
+
+.group_calls_list_image_container {
+    width: 60px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+  
+.group_calls_list_text {
+    font-size: 18px;
+}
+  
+.group_calls_list_image {
+    width: 100%;
+}
+  
+.join_room {
+    width: 100%;
+    height: 50px;
+    text-align: center;
+    transition: 0.3s;
+    font-weight: bold;
+    padding-top: 30px;
+    border-top: 5px groove #8985ff27;
+    border-bottom: 5px ridge #8985ff27;
+    align-items: middle;
+}
+  
